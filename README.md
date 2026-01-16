@@ -141,9 +141,10 @@ Chi tiết luồng và payload: xem `docs/notifications.md`.
 
 ## Ghi chú
 
-- Hình ảnh demo sẽ được thêm sau trong phần README này.
 - Vui lòng đảm bảo `HERE_API_KEY` hợp lệ để phần gợi ý địa điểm hoạt động.
 
 ## Bản quyền
 
 Mã nguồn thuộc dự án QtiFoodEcommerce. Vui lòng liên hệ chủ kho để biết thêm chi tiết về quyền sử dụng.
+
+
