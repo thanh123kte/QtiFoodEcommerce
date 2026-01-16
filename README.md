@@ -147,4 +147,9 @@ Chi tiết luồng và payload: xem `docs/notifications.md`.
 
 Mã nguồn thuộc dự án QtiFoodEcommerce. Vui lòng liên hệ chủ kho để biết thêm chi tiết về quyền sử dụng.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/c48c465f-ae58-4f5f-845d-e9909263e4d8
+
 
